@@ -1,0 +1,16 @@
+.calender
+{
+    border: 4px rgb(46, 40, 142) solid ;
+    width: fit-content;
+    height: fit-content;
+    padding: 2%;
+    font-size: 400%;
+    color:rgb(46, 40, 142);
+    margin: auto;
+}
+
+.date 
+{
+    display: inline;
+}
+

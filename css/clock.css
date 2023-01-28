@@ -1,0 +1,15 @@
+.clock
+{
+    height : fit-content;
+    width :fit-content;
+    font-size:4cm;
+    color:rgb(46, 40, 142);
+    margin: auto;
+    padding: 10px;
+    border: 4px rgb(46, 40, 142) solid ;
+}
+
+.time
+{
+    display: inline-block;
+}
