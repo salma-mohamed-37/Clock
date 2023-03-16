@@ -1,16 +1,16 @@
 .calender
 {
-    border: 4px rgb(46, 40, 142) solid ;
+    font-family: 'Seven Segment', sans-serif;
+  /* border: 4px red solid ;*/
     width: fit-content;
     height: fit-content;
     padding: 2%;
-    font-size: 400%;
-    color:rgb(46, 40, 142);
-    margin: auto;
+    font-size: 4cm;
+    color: red; /* :rgb(46, 40, 142)*/
+    margin: auto;    
 }
 
 .date 
 {
     display: inline;
 }
-

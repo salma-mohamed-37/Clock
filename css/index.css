@@ -1,9 +1,13 @@
+body
+{
+    background-color: black;
+}
 .base
 {
     margin: auto;
     text-align: center;
     font-size: 500%;
-    color:rgb(46, 40, 142);
+    color:red;
     margin-top: 10%;
 }
 .fa-regular
@@ -17,7 +21,7 @@
 }
 .fa-solid
 {
-    color:rgb(46, 40, 142);
+    color:red;
     margin-bottom:20px ;
 }
 

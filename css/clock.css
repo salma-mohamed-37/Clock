@@ -2,11 +2,12 @@
 {
     height : fit-content;
     width :fit-content;
-    font-size:4cm;
-    color:rgb(46, 40, 142);
+    font-size:5cm;
+    color:red;
     margin: auto;
     padding: 10px;
-    border: 4px rgb(46, 40, 142) solid ;
+   /* border: 4px rgb(46, 40, 142) solid ;*/
+    font-family: 'Seven Segment', sans-serif;
 }
 
 .time
